@@ -1,4 +1,4 @@
-# EEP-Project-2-Harriette-Chick
+# EEP 153 Project 2 (Harriette Chick)
 
 ## Topics and Goals
 
