@@ -11,9 +11,6 @@ UC Berkeley students who rely on groceries vs UC Berkeley students who rely on f
 - Which diet is cheaper? 
 - Which diet is more nutritional?
 
-## Data Sets
-
-
 ## Members
 - Team Manager: Julia Runkle (juliarunkle@berkeley.edu); GitHub: @juliarunkle
 - Carol Lu (carol510@berkeley.edu); Github: @carolzlu
