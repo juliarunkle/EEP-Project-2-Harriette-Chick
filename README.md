@@ -19,6 +19,10 @@
 - Jayden Manalese (j.m@berkeley.edu); Github: @JaydenM5
 - Rayna Rao (raynar@berkeley.edu); Github @RRzy00
 
+## Deadlines
+- Code Rough Draft: March 3
+- Code Reviews: March 6
+- Presentations: March 8
 
 ## External Links
 Shared Google Drive: https://drive.google.com/drive/folders/1HwgGc3xQkCXBFJhlXH7UEcdVwV898OXg
