@@ -7,11 +7,9 @@
 UC Berkeley students who rely on groceries vs UC Berkeley students who rely on food from campus restaurants
 
 ## Questions of Interest
-What is the minimum cost subsistence diet for students at UC Berkeley who buy groceries and those who eat at campus restaurants? 
-
-Which diet is cheaper? 
-
-Which diet is more nutritional?
+- What is the minimum cost subsistence diet for students at UC Berkeley who buy groceries and those who eat at campus restaurants? 
+- Which diet is cheaper? 
+- Which diet is more nutritional?
 
 ## Data Sets
 
