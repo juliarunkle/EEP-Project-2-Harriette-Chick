@@ -1,10 +1,7 @@
 # EEP 153 Project 2 (Harriette Chick)
 
-## Topics and Goals
-
-
 ## Population(s) of Interest
-UC Berkeley students who rely on groceries vs UC Berkeley students who rely on food from campus restaurants
+UC Berkeley students who rely on groceries vs UC Berkeley students who rely on food from campus restaurants. Specifically looking at males and females ages 19-30. Excluding dining halls, where students use a different form of currency (meal swipes), and off-campus restaurants.
 
 ## Questions of Interest
 - What is the minimum cost subsistence diet for students at UC Berkeley who buy groceries and those who eat at campus restaurants? 
